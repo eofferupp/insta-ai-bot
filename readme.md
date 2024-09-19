@@ -39,4 +39,4 @@ Track engagement metrics and improve your bot's performance using provided analy
 - For detailed setup instructions, refer to the [LEARN.md](https://github.com/eofferupp/insta-ai-bot/LEARN.md) file.
 - As part of a healthy open-source community, let's uplift and respect each other; please review our [code of conduct](https://github.com/yourusername/insta-ai-bot/blob/main/CODE_OF_CONDUCT.md).
 
-#### This App is developed by [Tres-Tech](https://github.com/eofferupp) with ❤️
+#### This App is developed by [eofferupp](https://github.com/eofferupp) with ❤️
