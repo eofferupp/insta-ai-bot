@@ -1,4 +1,4 @@
-<img src="https://github.com/eofferupp/my-temu-scraper/raw/main/images/cover.png" alt="My Temu Scraper Cover" />
+<img src="https://github.com/eofferupp/insta-ai-bot/raw/main/images/Blue White Gradient Travel Promotion Instagram Post (1920 x 900 px).png" alt="My Temu Scraper Cover" />
 
 # 🤖 Insta AI Bot Replier [![GitHub](https://img.shields.io/github/license/eofferupp/insta-ai-bot?color=blue)](https://img.shields.io/github/license/eofferupp/insta-ai-bot) [![GitHub stars](https://img.shields.io/github/stars/eofferupp/insta-ai-bot)](https://github.com/eofferupp/insta-ai-bot/stargazers)
 
